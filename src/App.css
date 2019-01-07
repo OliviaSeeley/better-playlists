@@ -1,5 +1,13 @@
+html{
+  background-color: #282828;
+}
 .App {
   text-align: center;
+}
+
+.App div,
+.App .filter {
+  color: white;
 }
 
 .App-logo {
@@ -29,4 +37,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+h1{
+  font-size: 54px;
+  color: #fff;
 }
