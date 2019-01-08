@@ -1,5 +1,5 @@
-html{
-  background-color: #282828;
+html, body{
+  background-color: grey;
 }
 .App {
   text-align: center;
@@ -37,9 +37,4 @@ html{
   to {
     transform: rotate(360deg);
   }
-}
-
-h1{
-  font-size: 54px;
-  color: #fff;
 }
